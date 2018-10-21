@@ -1,13 +1,12 @@
 {
   "BTTPresetName" : "default",
-  "BTTPresetUUID" : "4B8B908D-944E-4219-AE08-DAC54AB805D0",
+  "BTTPresetUUID" : "3BE62C59-BCE8-4732-89F5-C2D3A684968A",
   "BTTPresetContent" : [
     {
       "BTTAppBundleIdentifier" : "com.google.Chrome",
       "BTTAppName" : "Google Chrome",
-      "BTTAppSpecificSettings" : {
-
-      },
+      "BTTAppProcessMatchMode" : 2,
+      "BTTAppProcessName" : "Google Chrome",
       "BTTTriggers" : [
         {
           "BTTTriggerType" : 110,
@@ -17,21 +16,9 @@
           "BTTPredefinedActionName" : "No Action",
           "BTTShortcutToSend" : "56,55,17",
           "BTTEnabled2" : 1,
-          "BTTUUID" : "D1B7B2E7-2A8D-4998-A396-3C1D13553094",
+          "BTTUUID" : "5109EC4F-1C48-462D-8BCC-45D11277809B",
           "BTTEnabled" : 1,
           "BTTOrder" : 4
-        },
-        {
-          "BTTTriggerType" : 163,
-          "BTTTriggerTypeDescription" : "3 Finger Double-Tap",
-          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
-          "BTTPredefinedActionType" : -1,
-          "BTTPredefinedActionName" : "No Action",
-          "BTTShortcutToSend" : "55,13",
-          "BTTEnabled2" : 1,
-          "BTTUUID" : "606E2C0C-165E-4750-A9ED-62F2618FAF41",
-          "BTTEnabled" : 1,
-          "BTTOrder" : 0
         },
         {
           "BTTTriggerType" : 133,
@@ -41,21 +28,9 @@
           "BTTPredefinedActionName" : "No Action",
           "BTTShortcutToSend" : "59,48",
           "BTTEnabled2" : 1,
-          "BTTUUID" : "84732B54-E860-42C1-94DE-D593B62FB832",
+          "BTTUUID" : "92ACE595-71BF-4951-A7F3-44615D4DB0F1",
           "BTTEnabled" : 1,
           "BTTOrder" : 1
-        },
-        {
-          "BTTTriggerType" : 138,
-          "BTTTriggerTypeDescription" : "TipTap Middle (2 Fingers Fix)",
-          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
-          "BTTPredefinedActionType" : -1,
-          "BTTPredefinedActionName" : "No Action",
-          "BTTShortcutToSend" : "56,55,15",
-          "BTTEnabled2" : 1,
-          "BTTUUID" : "3809BF0C-791A-41BA-A437-54DF5846D8F6",
-          "BTTEnabled" : 1,
-          "BTTOrder" : 3
         },
         {
           "BTTTriggerType" : 132,
@@ -65,9 +40,33 @@
           "BTTPredefinedActionName" : "No Action",
           "BTTShortcutToSend" : "59,56,48",
           "BTTEnabled2" : 1,
-          "BTTUUID" : "24D70912-3C64-4227-9BC3-978416B59764",
+          "BTTUUID" : "F58AA5C1-D86A-454A-A30C-079FC91F1AA7",
           "BTTEnabled" : 1,
           "BTTOrder" : 2
+        },
+        {
+          "BTTTriggerType" : 163,
+          "BTTTriggerTypeDescription" : "3 Finger Double-Tap",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTPredefinedActionType" : -1,
+          "BTTPredefinedActionName" : "No Action",
+          "BTTShortcutToSend" : "55,13",
+          "BTTEnabled2" : 1,
+          "BTTUUID" : "B36C57CF-0CD5-4A72-AF73-AAA038B03872",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 0
+        },
+        {
+          "BTTTriggerType" : 138,
+          "BTTTriggerTypeDescription" : "TipTap Middle (2 Fingers Fix)",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTPredefinedActionType" : -1,
+          "BTTPredefinedActionName" : "No Action",
+          "BTTShortcutToSend" : "56,55,15",
+          "BTTEnabled2" : 1,
+          "BTTUUID" : "BD9C0ABA-4175-493B-B10E-4F5ECAD4A2D2",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 3
         }
       ]
     },
@@ -82,4 +81,4 @@
   "BTTPresetSnapAreas" : [
 
   ]
-
+}
